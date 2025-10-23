@@ -9,3 +9,8 @@
 ### Vias de contancto 
 ![instagram]()
 ![tiktok]()
+
+### :zap: Actividad Reciente
+<!--STAR_SECTION:activity-->
+
+<!--END_SECTION:activity-->
